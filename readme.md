@@ -18,7 +18,7 @@ _A Collection of Docker Containers for Security and Penetration Testing can be f
 
 ## Example
 
-`docker run fraposft/nikto -host https://target.tld`
+`docker run frapsoft/nikto -host https://target.tld`
 
 ### Contact / Social Media
 
